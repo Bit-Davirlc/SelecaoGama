@@ -1,0 +1,43 @@
+section{
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.acima{
+    top: 50%;
+    left: 50%;
+    transform: translateY(25vh);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.meio{
+    top: 50%;
+    left: 50%;
+    transform: translateY(25vh);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.baixo{
+    top: 50%;
+    left: 50%;
+    transform: translateY(25vh);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.button{
+    background-color: #5d6a6d;
+    border: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
